@@ -1,6 +1,6 @@
 package main
 
-import "github.com/davidhwang-ij/go-react-auth-demo/backend/app"
+import "./api/backend/app"
 
 func main() {
 	app.StartApplication()

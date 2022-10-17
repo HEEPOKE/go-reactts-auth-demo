@@ -1,8 +1,9 @@
 package services
 
 import (
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/domain/users"
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/utils/errors"
+	"api/backend/domain/users"
+	"api/backend/utils/errors"
+
 	"golang.org/x/crypto/bcrypt"
 )
 

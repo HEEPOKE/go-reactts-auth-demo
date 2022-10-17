@@ -3,7 +3,8 @@ package app
 import (
 	"time"
 
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/controller/users"
+	"api/backend/controller/users"
+
 	"github.com/gin-contrib/cors"
 )
 

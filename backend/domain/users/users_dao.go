@@ -3,8 +3,8 @@ package users
 import (
 	"fmt"
 
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/datasource/mysql/users_db"
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/utils/errors"
+	"api/backend/datasource/mysql/users_db"
+	"api/backend/utils/errors"
 )
 
 var (

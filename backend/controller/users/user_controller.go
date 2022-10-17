@@ -5,9 +5,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/domain/users"
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/services"
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/utils/errors"
+	"api/backend/domain/users"
+	"api/backend/services"
+	"api/backend/utils/errors"
+
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 )

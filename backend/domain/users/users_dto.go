@@ -3,7 +3,7 @@ package users
 import (
 	"strings"
 
-	"github.com/davidhwang-ij/go-react-auth-demo/backend/utils/errors"
+	"api/backend/utils/errors"
 )
 
 type User struct {
